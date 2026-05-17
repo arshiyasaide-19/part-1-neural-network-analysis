@@ -1,0 +1,4 @@
+Experiment,Hidden Layers,Neurons,Batch Size,Epochs,Test Accuracy
+Exp 1,1,32,32,30,0.865
+Exp 2,2,"64,32",32,50,0.9625
+Exp 3,3,"128,64,32",16,50,0.97
